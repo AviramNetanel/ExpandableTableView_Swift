@@ -6,7 +6,7 @@ The Custom cell has a lable for title, and a textView for the text, and looks li
 
 When Not expanded:
 *****************
-#     UILabel   #
+/     UILabel   /
 *****************
 
 When expanded:
