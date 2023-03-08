@@ -11,8 +11,8 @@ When Not expanded:
 
 When expanded:
 *****************
-#     UILabel   #
-#               # 
-#    TextView   #
+/     UILabel   /
+/               / 
+/    TextView   /
 *****************
 
