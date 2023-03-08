@@ -13,7 +13,7 @@ When expanded:
 *****************
 /     UILabel   /
 
-       && 
+/      && 
        
 /    TextView   /
 *****************
