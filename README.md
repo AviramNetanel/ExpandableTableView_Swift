@@ -6,13 +6,13 @@ The Custom cell has a lable for title, and a textView for the text, and looks li
 
 When Not expanded:
 *****************
-*     Title     *
+#     UILabel   #
 *****************
 
 When expanded:
 *****************
-*     Title     *
-* text text text* 
-*  more text... *
+#     UILabel   #
+#               # 
+#    TextView   #
 *****************
 
